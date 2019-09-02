@@ -74,11 +74,11 @@ class MonthView(context: Context, attrs: AttributeSet, defStyle: Int) : View(con
             color = textColor.adjustAlpha(LOW_ALPHA)
         }
 
-        val smallerTextSize = resources.getDimensionPixelSize(R.dimen.smaller_text_size)
-        eventTitleHeight = smallerTextSize
+//        val smallerTextSize = resources.getDimensionPixelSize(R.dimen.smaller_text_size)
+        eventTitleHeight = normalTextSize
         eventTitlePaint = TextPaint(Paint.ANTI_ALIAS_FLAG).apply {
             color = textColor
-            textSize = smallerTextSize.toFloat()
+            textSize = normalTextSize.toFloat()
             textAlign = Paint.Align.LEFT
         }
 
