@@ -287,7 +287,7 @@
         https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
     -->
 
-    <string name="about_eink_title">關於「簡易行事曆 for HyRead Gaze」</string>
-    <string name="about_eink_text">「簡易行事曆」（Simple Calendar）為 Simple Mobile Tools 所開發的 Apache 授權開放原始碼專案。「簡易行事曆 for HyRead Gaze」為凌網科技基於「簡易行事曆」針對 HyRead Gaze 優化開發的版本。對於「簡易行事曆」的功能操作可參考 Simple Mobile Tools 之相關網站。</string>
-    <string name="about_cal_title">關於「簡易行事曆」</string>
+    <string name="about_eink_title">About the "Simple Calendar for HyRead Gaze"</string>
+    <string name="about_eink_text">"Simple Calendar" is an Apache Licensed open-source project developed by "Simple Mobile Tools." The "Simple Calendar for HyRead Gaze" is a "HyRead Gaze Customized" version which is extended from the original project by Hyweb Technology. You can find more useful information on the sites of Simple Mobile Tools.</string>
+    <string name="about_cal_title">About the "Simple Calendar"</string>
 </resources>
