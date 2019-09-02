@@ -286,4 +286,8 @@
         Haven't found some strings? There's more at
         https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
     -->
+
+    <string name="about_eink_title">關於「簡易行事曆 for HyRead Gaze」</string>
+    <string name="about_eink_text">「簡易行事曆」（Simple Calendar）為 Simple Mobile Tools 所開發的 Apache 授權開放原始碼專案。「簡易行事曆 for HyRead Gaze」為凌網科技基於「簡易行事曆」針對 HyRead Gaze 優化開發的版本。對於「簡易行事曆」的功能操作可參考 Simple Mobile Tools 之相關網站。</string>
+    <string name="about_cal_title">關於「簡易行事曆」</string>
 </resources>
