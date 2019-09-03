@@ -142,7 +142,8 @@
             android:layout_below="@+id/customization_primary_color_holder"
             android:layout_marginTop="@dimen/medium_margin"
             android:background="?attr/selectableItemBackground"
-            android:padding="@dimen/activity_margin">
+            android:padding="@dimen/activity_margin"
+            android:visibility="gone">
 
             <com.simplemobiletools.commons.views.MyTextView
                 android:id="@+id/customization_app_icon_color_label"
@@ -169,7 +170,7 @@
             android:id="@+id/customization_navigation_bar_color_holder"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_below="@+id/customization_app_icon_color_holder"
+            android:layout_below="@+id/customization_primary_color_holder"
             android:layout_marginTop="@dimen/medium_margin"
             android:background="?attr/selectableItemBackground"
             android:padding="@dimen/activity_margin">
